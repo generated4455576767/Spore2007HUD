@@ -1,0 +1,23 @@
+names
+0
+icon-hunger
+SocialbarCRE
+layouts_atlas~	0x40464200
+beta_ui
+CRG_SocialButton
+CRG_AbilitiesButton
+bar_end
+main
+custom
+dsadsadsad
+GlobalUIPause
+CRG_AttackButton
+graphics_atlas~	0x31a44893
+mask_button
+button
+creatureVerbtrayCollection
+tooltips
+CreatureEditorVerbIcons
+game_entry~	0x199b485
+pause_icon
+sporemaster
